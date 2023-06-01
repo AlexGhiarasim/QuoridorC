@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1673128744 source:c:\project ip quoridor\quoridor\main.cpp
+	<iostream>
+	"buttons.h"
+	"variables.h"
+	"play1v1.h"
+	"playvscalc.h"
+	"functionsforplay.h"
+
+1673128743 c:\project ip quoridor\quoridor\buttons.h
+	"variables.h"
+
+1673007322 c:\project ip quoridor\quoridor\variables.h
+	<graphics.h>
+	<winbgim.h>
+	<cmath>
+	<cstring>
+	<string>
+	<queue>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
+1673128742 c:\project ip quoridor\quoridor\play1v1.h
+	"variables.h"
+	"functionsforplay.h"
+	<time.h>
+	<stdio.h>
+
+1673128742 c:\project ip quoridor\quoridor\functionsforplay.h
+	"variables.h"
+	"play1v1.h"
+
+1673127924 c:\project ip quoridor\quoridor\playvscalc.h
+	"variables.h"
+	"functionsforplay.h"
+
+1673007321 source:d:\teofil\quoridor\main.cpp
+	<iostream>
+	"buttons.h"
+	"variables.h"
+	"play1v1.h"
+	"playvscalc.h"
+	"functionsforplay.h"
+
+1673007321 d:\teofil\quoridor\buttons.h
+	"variables.h"
+
+1673007321 d:\teofil\quoridor\variables.h
+	<graphics.h>
+	<winbgim.h>
+	<cmath>
+	<cstring>
+	<string>
+	<queue>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
+1673011927 d:\teofil\quoridor\play1v1.h
+	"variables.h"
+	"functionsforplay.h"
+	<time.h>
+	<stdio.h>
+
+1673007321 d:\teofil\quoridor\functionsforplay.h
+	"variables.h"
+	"play1v1.h"
+
+1673007483 d:\teofil\quoridor\playvscalc.h
+	"variables.h"
+	"functionsforplay.h"
+
+1673007322 source:c:\users\alexandru\desktop\quoridor\main.cpp
+	<iostream>
+	"buttons.h"
+	"variables.h"
+	"play1v1.h"
+	"playvscalc.h"
+	"functionsforplay.h"
+
+1673007322 c:\users\alexandru\desktop\quoridor\buttons.h
+	"variables.h"
+
+1673007322 c:\users\alexandru\desktop\quoridor\variables.h
+	<graphics.h>
+	<winbgim.h>
+	<cmath>
+	<cstring>
+	<string>
+	<queue>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
+1673013050 c:\users\alexandru\desktop\quoridor\play1v1.h
+	"variables.h"
+	"functionsforplay.h"
+	<time.h>
+	<stdio.h>
+
+1673007322 c:\users\alexandru\desktop\quoridor\functionsforplay.h
+	"variables.h"
+	"play1v1.h"
+
+1673007484 c:\users\alexandru\desktop\quoridor\playvscalc.h
+	"variables.h"
+	"functionsforplay.h"
+
